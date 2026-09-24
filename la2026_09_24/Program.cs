@@ -12,7 +12,7 @@
                 Console.WriteLine(c);
             }
 
-            while (Console.ReadKey(true).Key !=1 ;
+            while (Console.ReadKey(true).Key != ConsoleKey.Escape);
 
 
         }
